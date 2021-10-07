@@ -9,6 +9,7 @@
 3. `yarn start` and voila! :tada: :tada: :tada:
 
 
+Source: https://www.npmjs.com/package/react-rating#react-rating
 
 
 --- 
