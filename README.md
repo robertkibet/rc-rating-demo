@@ -1,3 +1,20 @@
+# RC-Ratings Demo
+
+![Alt text](./src/assets/demo.png?raw=true "Demo Image")
+
+
+## Running Locally
+1. Git clone the project
+2. cd into root directory and `yarn install`
+3. `yarn start` and voila! :tada: :tada: :tada:
+
+
+
+
+--- 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
